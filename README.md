@@ -1,5 +1,5 @@
 # Elders Home Reunited
-![]()
+![ ](https://github.com/Wowzaa89/Elders-Home-Reunited/blob/main/download.jpg)
 This is about the Elders Home Reunited (Not real. Hopefully...) getting you a new room(s).
 ## What would you like in your house?
 - [ ] Bathroom
